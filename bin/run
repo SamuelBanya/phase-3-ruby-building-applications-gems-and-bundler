@@ -1,3 +1,5 @@
-#!/usr/bin/env ruby 
+#!/usr/bin/env ruby
 
 # require the environment file
+# NOTE: Here we are adding the environment file so that we can include the required Gems for the project:
+require_relative "../config/environment"
